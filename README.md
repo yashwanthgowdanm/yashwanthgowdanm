@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Yashwanth Gowda 👋
 
-<!--
-**yashwanthgowdanm/yashwanthgowdanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MS Robotics & Autonomous Systems @ Arizona State University (May 2026)**
+Building autonomous systems that navigate, perceive, and manipulate the real world.
 
-Here are some ideas to get you started:
+## 🤖 What I work on
+- Autonomous Navigation — ROS2, Nav2, SLAM, multi-sensor fusion
+- Control Systems — 2-DOF hybrid controllers, PID & inverse dynamics
+- ML for Robotics — LSTM-GAN, reinforcement learning, PyTorch
+- Dexterous Manipulation — 7-DOF tendon-driven hand @ ASU Robotics Lab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+ROS2 · Python · C++ · MATLAB · Gazebo · OpenCV · PyTorch · SLAM · Nav2
+
+🎯 Seeking full-time roles — available May 2026
