@@ -114,9 +114,17 @@ Decentralized swarm robotics system with SLAM-based navigation enabling cooperat
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yashwanthgowdanm&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Yashwanth's GitHub stats" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthgowdanm&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashwanthgowdanm&theme=default" alt="Yashwanth's GitHub stats" height="150" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashwanthgowdanm&theme=default" alt="Repos per language" height="150" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashwanthgowdanm&theme=default" alt="Most commit language" height="150" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=yashwanthgowdanm&theme=default&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
