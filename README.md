@@ -34,7 +34,7 @@ My work spans:
 
 Currently, I am a **Research Assistant at Prof. Zhe Xu's Robotics Lab at ASU**, working on dexterous manipulation control for a 7-DOF tendon-driven robotic hand and hardware integration with a Stretch3 mobile manipulator.
 
-- MS Robotics & Autonomous Systems — Arizona State University, expected May 2026
+- MS Robotics & Autonomous Systems — Arizona State University, May 2026
 - B.E. Mechanical Engineering — Bangalore Institute of Technology
 - Location: Tempe, Arizona
 - Open to full-time roles in the US, remote, and India
