@@ -44,20 +44,6 @@ Currently, I am a **Research Assistant at Prof. Zhe Xu's Robotics Lab at ASU**, 
 
 ## Featured Projects
 
-### 7-DOF Tendon-Driven Robotic Hand Control
-
-**Python · ROS2 · Serial API · Joint-Space Control · Dexterous Manipulation · Stretch3 Integration**
-
-Developing Python-based control architectures for the TetherIA Aero Hand, a 7-DOF tendon-driven robotic hand used for dexterous manipulation research. Implemented joint-space trajectory planners across grasping tasks and integrated the hand with a Stretch3 mobile manipulator for coordinated mobile manipulation.
-
-**Highlights**
-
-- Developed ROS2-based control workflows using topics and services
-- Implemented joint-space trajectory planners for multi-finger manipulation
-- Tested grasp configurations including rolling dice, bottle grasping, card picking, and teleoperation-based manipulation
-- Reduced trajectory error recurrence by 25% across 20 hardware test runs
-- Integrated robotic hand hardware with a Stretch3 mobile manipulator via USB
-
 ---
 
 ### Autonomous Warehouse Patrolling Robot
